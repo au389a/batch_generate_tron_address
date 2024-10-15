@@ -65,11 +65,9 @@ linux
 
 6. 需要提速版 Mac、windows、linux程序的可以通过以下联系方式获取
 
-Telegram: https://t.me/yzily
+Telegram: https://t.me/Smellcoder
 
 
 ### 私钥探测碰撞器程序 
 <a href="https://github.com/au389a/tron_collider" target="_blank">私钥探测碰撞器</a>
 
-### 波场钱包源码
-<a href="https://github.com/au389a/tron-wallet" target="_blank">波场钱包源码</a>
